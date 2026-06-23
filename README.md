@@ -41,10 +41,7 @@ A full-stack PHP + MySQL web application to manage book inventory, student borro
 ## 🧪 How to Run Locally
 
 1.  Install [MAMP](https://www.mamp.info) or [XAMPP](https://www.apachefriends.org/index.html)
-2.  Clone the repository:
-    ```bash
-    git clone [https://github.com/rxl895/library-management-system.git](https://github.com/rxl895/library-management-system.git)
-    ```
+2.  Clone the repository
 3.  Move the project folder to your MAMP `htdocs` or XAMPP `htdocs` directory.
 4.  Start Apache & MySQL from MAMP/XAMPP.
 5.  Import the SQL schema from `sql/database.sql` into phpMyAdmin.
